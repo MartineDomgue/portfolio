@@ -8,7 +8,7 @@ B.S., Computer Science | Technische Hochschule Brandenburg (09.2019- 09.2023)
 ## Projects
 
 ### 🩺 Diabetes Data Analysis  
-![Diabetes](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) 
+![Diabetes](/assets/img/ChatGPT Image 2 mai 2025, 13_16_52.png) 
 
 **Repository:** [`diabetes.ipynb`](https://github.com/MartineDomgue/Data-Science-Project1)  
 **Technologies:** Python, Pandas, Seaborn, Matplotlib, SciPy  
